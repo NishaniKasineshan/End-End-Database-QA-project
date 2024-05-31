@@ -1,2 +1,1 @@
-# End2End-Langchain-Project
-----haven't decided the idea yet---
+# End2End-Langchain-Project 
